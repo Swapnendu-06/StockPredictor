@@ -163,14 +163,19 @@ This project is licensed under the MIT License.
 
 ---
 
-Contribution Guidelines
+## Contribution Guidelines
+
 We welcome contributions. Here's how you can help:
 
-Submit issues and feature requests
-Fork and raise pull requests
-Contribute to documentation
-Help build a web interface or REST API
-Integrate OCR and RTO APIs
-Contact and Credits
+* Submit issues and feature requests
+* Fork and raise pull requests
+* Contribute to documentation
+* Help build a web interface or REST API
 
-Author: Swapnendu Sikdar Email: swapnendusikdar@gmail.com Institution: Jadavpur University Field: Electrical Engineering Interests: AI/ML, Deep Learning,Machine Learning, Computer Vision, Robotics, Smart Infrastructure
+## Contact and Credits
+
+Author: Swapnendu Sikdar
+Email: swapnendusikdar@gmail.com
+Institution: Jadavpur University
+Field: Electrical Engineering
+Interests: AI/ML, Deep Learning,Machine Learning, Computer Vision, Robotics, Smart Infrastructure
